@@ -37,7 +37,8 @@ Me apasiona combinar **profesionalismo, tecnología y humanidad** para ofrecer s
 
 ## 📫 Cómo contactarme
 - 🌍 [LinkedIn](https://www.linkedin.com/in/dante-jacobo-escalona-bustos-55497467/)  
-- 📧 [Correo](jacobo.bustos.22@gmail.com)  
+- 📧 [Correo](jacobo.bustos.22@gmail.com)
+- 🔗 [Mi perfil de GitHub](https://github.com/DanteJAC)  
 
 ---
 
