@@ -40,8 +40,7 @@ Construyo sistemas backend robustos y escalables con Java. Mi experiencia previa
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanteJAC&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
----
+![DanteJAC's Stats](https://github-readme-stats.vercel.app/api?username=DanteJAC&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ## 📬 Contacto
 
