@@ -40,8 +40,8 @@ Construyo sistemas backend robustos y escalables con Java. Mi experiencia previa
 
 ## 📊 GitHub Stats
 
-![Dante's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Dante's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dantejac&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantejac&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
